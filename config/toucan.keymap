@@ -32,7 +32,7 @@
         nav {
             display-name = "NAV";
             bindings = <
-&kp TAB  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &trans  &trans  &trans  &trans  &kp N0  &kp BSPC  &bt BT_CLR  &kp NUMBER_4  &kp N5  &kp NUMBER_6  &bt BT_SEL 3  &bt BT_SEL 4  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans  &trans  &kp LSHFT  &kp N7  &kp N8  &kp N9  &studio_unlock  &trans  &kp N0  &trans  &trans  &trans  &trans  &trans  &kp LGUI  &trans  &kp SPACE  &kp RET  &trans  &kp RALT
+&kp TAB  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &trans  &trans  &trans  &trans  &kp N0  &kp BSPC  &bt BT_CLR  &kp NUMBER_4  &kp N5  &kp NUMBER_6  &bt BT_SEL 3  &bt BT_SEL 4  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans  &trans  &kp LSHFT  &kp N7  &kp N8  &kp N9  &studio_unlock  &trans  &kp N0  &trans  &trans  &trans  &trans  &trans  &kp LGUI  &trans  &kp SPACE  &kp RET  &kp ESCAPE  &kp RALT
             >;
         };
 
