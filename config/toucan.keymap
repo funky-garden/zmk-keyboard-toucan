@@ -39,7 +39,7 @@
         sym {
             display-name = "SYM";
             bindings = <
-&kp TAB  &kp EXCL  &kp AT  &kp HASH  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp GRAVE  &kp AMPS  &kp KP_MULTIPLY  &kp LPAR  &kp RPAR  &kp DOUBLE_QUOTES  &kp LCTRL  &kp DOLLAR  &kp PERCENT  &kp CARET  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp MINUS  &kp PLUS  &kp EQUAL  &kp RBKT  &kp BSLH  &kp SQT  &kp LSHFT  &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LC(NON_US_BACKSLASH)  &kp EQUAL  &kp LBRC  &kp RBRC  &kp PIPE  &kp TILDE  &kp LGUI  &trans  &kp SPACE  &kp RET  &trans  &kp RALT
+&kp TAB  &kp EXCL  &kp AT  &kp HASH  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp GRAVE  &kp AMPS  &kp KP_MULTIPLY  &kp LPAR  &kp DOUBLE_QUOTES  &kp DOUBLE_QUOTES  &kp LCTRL  &kp DOLLAR  &kp PERCENT  &kp CARET  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp MINUS  &kp PLUS  &kp EQUAL  &kp RBKT  &kp SQT  &kp SQT  &kp LSHFT  &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LC(NON_US_BACKSLASH)  &kp EQUAL  &kp LBRC  &kp RBRC  &kp PIPE  &kp TILDE  &kp LGUI  &trans  &kp SPACE  &kp RET  &trans  &kp RALT
             >;
         };
 
