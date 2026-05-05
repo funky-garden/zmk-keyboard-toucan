@@ -29,17 +29,17 @@
             >;
         };
 
-        nav {
-            display-name = "NAV";
+        num {
+            display-name = "NUM";
             bindings = <
-&kp TAB  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &trans  &trans  &trans  &trans  &kp N0  &kp BSPC  &bt BT_CLR  &kp NUMBER_4  &kp N5  &kp NUMBER_6  &bt BT_SEL 3  &bt BT_SEL 4  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans  &trans  &kp LSHFT  &kp N7  &kp N8  &kp N9  &studio_unlock  &trans  &kp N0  &trans  &trans  &trans  &trans  &trans  &kp LGUI  &trans  &kp SPACE  &kp RET  &kp ESCAPE  &kp RALT
+&kp TAB  &kp N1  &kp N2  &kp N3  &kp N4  &kp LC(H)  &kp LC(L)  &trans  &trans  &trans  &kp N0  &kp BSPC  &bt BT_CLR  &kp NUMBER_4  &kp N5  &kp NUMBER_6  &bt BT_SEL 3  &trans  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans  &trans  &kp LSHFT  &kp N7  &kp N8  &kp N9  &studio_unlock  &trans  &kp N0  &trans  &trans  &trans  &trans  &trans  &kp LGUI  &trans  &kp SPACE  &kp RET  &kp ESCAPE  &kp RALT
             >;
         };
 
         sym {
             display-name = "SYM";
             bindings = <
-&kp TAB  &kp EXCL  &kp AT  &kp HASH  &kp SQT  &kp DOUBLE_QUOTES  &kp GRAVE  &kp AMPS  &kp KP_MULTIPLY  &kp LPAR  &kp RPAR  &kp BSPC  &kp LCTRL  &kp DOLLAR  &kp PERCENT  &kp CARET  &trans  &trans  &kp MINUS  &kp EQUAL  &kp LBKT  &kp RBKT  &kp BSLH  &kp GRAVE  &kp LSHFT  &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans  &kp UNDER  &kp PLUS  &kp LBRC  &kp RBRC  &kp PIPE  &kp TILDE  &kp LGUI  &trans  &kp SPACE  &kp RET  &trans  &kp RALT
+&kp TAB  &kp EXCL  &kp AT  &kp HASH  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp GRAVE  &kp AMPS  &kp KP_MULTIPLY  &kp LPAR  &kp RPAR  &kp DOUBLE_QUOTES  &kp LCTRL  &kp DOLLAR  &kp PERCENT  &kp CARET  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp MINUS  &kp PLUS  &kp EQUAL  &kp RBKT  &kp BSLH  &kp SQT  &kp LSHFT  &kp AMPERSAND  &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LC(NON_US_BACKSLASH)  &kp EQUAL  &kp LBRC  &kp RBRC  &kp PIPE  &kp TILDE  &kp LGUI  &trans  &kp SPACE  &kp RET  &trans  &kp RALT
             >;
         };
 
